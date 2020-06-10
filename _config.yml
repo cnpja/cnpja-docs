@@ -1,0 +1,13 @@
+source: "./docs"
+
+baseurl: "/"
+url: "https://docs.cnpja.com"
+
+remote_theme: pmarsceill/just-the-docs
+color_scheme: "light"
+
+search_enabled: true
+heading_anchors: true
+
+title: "Documentação"
+footer_content: "&copy; 2020 CNPJá Tecnologia LTDA"
