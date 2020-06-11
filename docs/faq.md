@@ -17,19 +17,27 @@ nav_order: 70
 
 ## Sobre a API
 
-### Por que às vezes os dados do SINTEGRA / Simples Nacional não estão vindo?
+### O serviço está fora do ar?
+
+Consulte a nossa página de status em tempo real para visualizar o status individual de cada API:
+
+https://status.cnpja.com.br
+
+---
+
+### Vocês tem consulta de CPF?
+
+No momento não trabalhamos com consulta de CPFs.
+
+---
+
+### Por que os dados do SINTEGRA / Simples Nacional não estão vindo?
 
 Você não está utilizando as propriedades `sintegra_max_age` ou `simples_max_age`.
 
 Para receber estes dados com 100% de disponibilidade você precisa se sujeitar a uma cobrança de créditos mais elevada, que chamamos de consulta em Tempo Real.
 
 Caso contrário, irá recebê-los do Cache que não garante retorno todas as vezes.
-
----
-
-### Os créditos que eu não utilizar acumulam?
-
-Não, os créditos são reiniciados para o valor contratado todos os dias a meia-noite (UTC).
 
 ---
 
@@ -42,6 +50,12 @@ Cada Chave de API pode ter até 100 requisições concorrentes não finalizadas.
 ---
 
 ## Sobre os Planos
+
+### Os créditos que eu não utilizar acumulam?
+
+Não, os créditos são reiniciados para o valor contratado todos os dias a meia-noite (UTC).
+
+---
 
 ### Posso pagar em boleto?
 
@@ -59,14 +73,19 @@ Ou seja, o e-mail que configurou para emissão de boleto, ou o e-mail da conta p
 
 ---
 
-### Como cancelo a assinatura?
+### Preciso permanecer por tempo mínimo no plano?
 
-Acesse sua página de pagamentos recorrentes no portal do Paypal através [deste link](https://www.paypal.com/myaccount/autopay/) e cancele a assinatura.
-
-Em caso de pagamentos via boleto bancário por gentileza entre em contato conosco para cancelamento.
+Não há permanência mínima nem fidelidade. Você pode cancelar e recontratar quando quiser.
 
 ---
 
-### Existe multa de cancelamento?
+### Como cancelo a assinatura?
 
-Não. Todavia não reembolsaremos o pagamento já realizado do mês vigente.
+**Cartão de Crédito**
+
+Acesse sua página de pagamentos recorrentes no portal do Paypal através [deste link](https://www.paypal.com/myaccount/autopay/) e cancele a assinatura.
+
+
+**Boleto Bancário**
+
+Basta não efetuar o pagamento e a assinatura automaticamente cancelado.
