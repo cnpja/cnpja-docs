@@ -41,7 +41,7 @@ Sua Chave de API deve estar presente na propriedade `Authorization` dos `Headers
 
 ```json
 {
-  "email": "contato@cnpja.com.br",
+  "email": "contato@cnpja.com",
   "name": "Contato CNPJá",
   "given_name": "Contato",
   "family_name": "CNPJá",

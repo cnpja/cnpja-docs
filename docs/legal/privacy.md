@@ -55,7 +55,7 @@ O usuário poderá exercer os seus direitos por meio de comunicação escrita en
 - Data do pedido e assinatura do usuário;
 - Todo documento que possa demonstrar ou justificar o exercício de seu direito.
 
-O pedido deverá ser enviado ao e-mail: contato@cnpja.com.br.
+O pedido deverá ser enviado ao e-mail: contato@cnpja.com.
 
 O usuário será informado em caso de retificação ou eliminação dos seus dados.
 
@@ -119,7 +119,7 @@ Eventualmente, outros tipos de dados não previstos expressamente nesta Polític
 ### 4.2. Fundamento jurídico para o tratamento dos dados pessoais
 
 Ao utilizar os serviços do aplicativo, o usuário está consentindo com a presente Política de Privacidade.
-O usuário tem o direito de retirar seu consentimento a qualquer momento, não comprometendo a licitude do tratamento de seus dados pessoais antes da retirada. A retirada do consentimento poderá ser feita pelo e-mail: contato@cnpja.com.br.
+O usuário tem o direito de retirar seu consentimento a qualquer momento, não comprometendo a licitude do tratamento de seus dados pessoais antes da retirada. A retirada do consentimento poderá ser feita pelo e-mail: contato@cnpja.com.
 
 O consentimento dos relativamente ou absolutamente incapazes, especialmente de crianças menores de 16 (dezesseis) anos, apenas poderá ser feito, respectivamente, se devidamente assistidos ou representados.
 Poderão ainda ser coletados dados pessoais necessários para a execução e cumprimento dos serviços contratados pelo usuário no aplicativo.
@@ -171,7 +171,7 @@ Os dados pessoais do usuário não serão compartilhadas com terceiros. Serão, 
 
 O controlador, responsável pelo tratamento dos dados pessoais do usuário, é a pessoa física ou jurídica, a autoridade pública, a agência ou outro organismo que, individualmente ou em conjunto com outras, determina as finalidades e os meios de tratamento de dados pessoais.
 
-Neste aplicativo, o responsável pelo tratamento dos dados pessoais coletados é CNPJA TECNOLOGIA LTDA, que poderá ser contactada pelo e-mail: contato@cnpja.com.br.
+Neste aplicativo, o responsável pelo tratamento dos dados pessoais coletados é CNPJA TECNOLOGIA LTDA, que poderá ser contactada pelo e-mail: contato@cnpja.com.
 
 O responsável pelo tratamento dos dados se encarregará diretamente do tratamento dos dados pessoais do usuário.
 
@@ -179,7 +179,7 @@ O responsável pelo tratamento dos dados se encarregará diretamente do tratamen
 
 O encarregado de proteção de dados (data protection officer) é o profissional encarregado de informar, aconselhar e controlar o responsável pelo tratamento dos dados, bem como os trabalhadores que tratem os dados, a respeito das obrigações do aplicativo nos termos do RGDP, da Lei de Proteção de Dados Pessoais e de outras disposições de proteção de dados presentes na legislação nacional e internacional, em cooperação com a autoridade de controle competente.
 
-Neste aplicativo o encarregado de proteção de dados (data protection officer) é CNPJA TECNOLOGIA LTDA, que poderá ser contactada pelo e-mail: contato@cnpja.com.br.
+Neste aplicativo o encarregado de proteção de dados (data protection officer) é CNPJA TECNOLOGIA LTDA, que poderá ser contactada pelo e-mail: contato@cnpja.com.
 
 ---
 

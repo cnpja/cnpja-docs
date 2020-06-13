@@ -17,11 +17,13 @@ nav_order: 70
 
 ## Sobre a API
 
-### O serviço está fora do ar?
+### Qual o tempo de resposta?
 
-Consulte a nossa página de status em tempo real para visualizar o status individual de cada API:
+Para consultas ao Cache em torno de 0,3s.
 
-https://status.cnpja.com.br
+Já os serviços em Tempo Real disponibilizamos estatísticas com mínimo, máximo e médio a seguir:
+
+https://status.cnpja.com
 
 ---
 

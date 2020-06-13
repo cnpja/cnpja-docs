@@ -185,7 +185,7 @@ O usuário deverá comunicar o vendedor, por meio de seu serviço de atendimento
 
 ## 16. Do Serviço de Atendimento ao Usuário
 
-Em caso de dúvidas, sugestões ou problemas com a utilização do aplicativo CNPJá!, o usuário poderá contatar diretamente o seu serviço de atendimento, através do endereço de e-mail: contato@cnpja.com.br, bem como do telefone: (11) 97156-4144 (WhatsApp Apenas). Estes serviços de atendimento ao usuário estarão disponíveis nos seguintes dias e horários:
+Em caso de dúvidas, sugestões ou problemas com a utilização do aplicativo CNPJá!, o usuário poderá contatar diretamente o seu serviço de atendimento, através do endereço de e-mail: contato@cnpja.com, bem como do telefone: (11) 97156-4144 (WhatsApp Apenas). Estes serviços de atendimento ao usuário estarão disponíveis nos seguintes dias e horários:
 - segunda a sexta das 8h as 17h;
 - sábado das 8h as 12h;
 
