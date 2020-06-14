@@ -1,7 +1,7 @@
 source: "./docs"
 
 baseurl: "/"
-url: "https://docs.cnpja.com"
+url: "https://docs.cnpja.com.br"
 
 remote_theme: pmarsceill/just-the-docs
 color_scheme: "light"
