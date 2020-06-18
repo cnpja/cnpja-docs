@@ -35,9 +35,17 @@ Refira-se a próxima seção para detalhes sobre os modelos de precificação.
 
 Código | Status | Recorrência | Preço | Créditos | Precificação 
 :-- | :-- | :-- | :-- | :-- | :--
-PRO-M-2005 | Aberto | Mensal | 99,99 | 5.000 | Modelo B
-ESSENTIAL-M-2005 | Aberto | Mensal | 49,99 | 1.600 | Modelo B
-BASIC-M-2005 | Aberto | Mensal | 19,99 | 350 | Modelo B
+PREMIUM-Y-2006 | Aberto | Anual | 4319,89 | 25.000 | Modelo B
+PRO-Y-2006 | Aberto | Anual | 1079,89 | 5.000 | Modelo B
+ESSENTIAL-Y-2006 | Aberto | Anual | 539,89 | 1.600 | Modelo B
+BASIC-Y-2006 | Aberto | Anual | 215,89 | 350 | Modelo B
+PREMIUM-M-2006 | Aberto | Mensal | 399,99 | 25.000 | Modelo B
+PRO-M-2006 | Aberto | Mensal | 99,99 | 5.000 | Modelo B
+ESSENTIAL-M-2006 | Aberto | Mensal | 49,99 | 1.600 | Modelo B
+BASIC-M-2006 | Aberto | Mensal | 19,99 | 350 | Modelo B
+PRO-M-2005 | Fechado | Mensal | 99,99 | 5.000 | Modelo B
+ESSENTIAL-M-2005 | Fechado | Mensal | 49,99 | 1.600 | Modelo B
+BASIC-M-2005 | Fechado | Mensal | 19,99 | 350 | Modelo B
 BASIC-S-20Q2 | Fechado | Semestral | 174,00 | 5.000 | Modelo A
 ULTIMATE-Y-20Q2 | Fechado | Anual | 5389,20 | 150.000 | Modelo A
 PREMIUM-Y-20Q2 | Fechado | Anual | 2149,2 | 50.000 | Modelo A
