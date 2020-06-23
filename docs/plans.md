@@ -60,7 +60,7 @@ BASIC-M-20Q2 | Fechado | Mensal | 29,00 | 5.000 | Modelo A
 
 ## Modelos de Precificação
 
-O modelo determinar o custom em créditos de cada requisição e está diretamente vinculado ao plano.
+O modelo determina o custo em créditos de cada tipo de consulta e está diretamente vinculado ao plano.
 
 Serviço | Modelo A | Modelo B
 :-- | :-- | :--
