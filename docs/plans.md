@@ -46,6 +46,7 @@ BASIC-M-2006 | Aberto | Mensal | 19,99 | 350 | Modelo B
 PRO-M-2005 | Fechado | Mensal | 99,99 | 5.000 | Modelo B
 ESSENTIAL-M-2005 | Fechado | Mensal | 49,99 | 1.600 | Modelo B
 BASIC-M-2005 | Fechado | Mensal | 19,99 | 350 | Modelo B
+COVID-M-2005 | Fechado | Mensal | 19,99 | 2.500 | Modelo A
 BASIC-S-20Q2 | Fechado | Semestral | 174,00 | 5.000 | Modelo A
 ULTIMATE-Y-20Q2 | Fechado | Anual | 5389,20 | 150.000 | Modelo A
 PREMIUM-Y-20Q2 | Fechado | Anual | 2149,2 | 50.000 | Modelo A
