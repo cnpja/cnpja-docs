@@ -4,7 +4,7 @@ baseurl: "/"
 url: "https://docs.cnpja.com.br"
 
 remote_theme: pmarsceill/just-the-docs
-color_scheme: "light"
+color_scheme: "cnpja"
 
 search_enabled: true
 heading_anchors: true
