@@ -11,3 +11,6 @@ heading_anchors: true
 
 title: "Documentação"
 footer_content: "&copy; 2020 CNPJá Tecnologia LTDA"
+
+plugins:
+  - jekyll-sitemap
