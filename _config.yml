@@ -3,7 +3,7 @@ source: "./docs"
 baseurl: "/"
 url: "https://docs.cnpja.com.br"
 
-remote_theme: pmarsceill/just-the-docs
+remote_theme: pmarsceill/just-the-docs@16c18c10209bcf36811201968fe90153f3d45f8f
 color_scheme: "cnpja"
 
 search_enabled: true
