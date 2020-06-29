@@ -149,7 +149,15 @@ O montante total do pedido, incluindo todas as taxas, será indicado antes da va
 
 ---
 
-## 12. Do Pagamento
+## 12. Dos Planos
+
+O CNPJá! se compromete a honrar o valor em reais do plano contratado por no mínimo 1 ano.
+
+O CNPJá! reserva o direito de alterar o valor de créditos recebidos diariamente, bem como o custo em créditos das consultas obedecendo aviso prévio de 7 dias.
+
+---
+
+## 13. Do Pagamento
 
 O pagamento do pedido deverá ser realizado à prazo, através dos seguintes meios:
 - assinatura mensal via cartão de crédito;
@@ -159,7 +167,7 @@ O pagamento do pedido deverá ser realizado à prazo, através dos seguintes mei
 
 ---
 
-## 13. Da Entrega
+## 14. Da Entrega
 
 O prazo de entrega dos produtos ou dos serviços adquiridos no aplicativo CNPJá! será informado no momento do pedido, em dias úteis. O tempo para a entrega é calculado conforme o estoque, a região, o processo de emissão da nota fiscal e a preparação do pedido.
 
@@ -167,13 +175,13 @@ Após a finalização do pedido, não poderá ser possível alterar a forma de p
 
 ---
 
-## 14. Do Direito de Arrependimento
+## 15. Do Direito de Arrependimento
 
 Dentro do prazo de 7 (sete) dias, contados da data de recebimento do produto ou serviço, o cliente poderá desistir da compra e solicitar a devolução do valor parcial referente ao dias de serviço não usufruídos, sem necessidade de apresentação de quaisquer justificativas.
 
 ---
 
-## 15. Das Trocas e Devoluções
+## 16. Das Trocas e Devoluções
 
 A política de trocas e de devoluções do aplicativo CNPJá! será regida conforme o Código de Defesa do Consumidor (Lei Federal n. 8.078, de 11 de setembro de 1990).
 
@@ -183,7 +191,7 @@ O usuário deverá comunicar o vendedor, por meio de seu serviço de atendimento
 
 ---
 
-## 16. Do Serviço de Atendimento ao Usuário
+## 17. Do Serviço de Atendimento ao Usuário
 
 Em caso de dúvidas, sugestões ou problemas com a utilização do aplicativo CNPJá!, o usuário poderá contatar diretamente o seu serviço de atendimento, através do endereço de e-mail: contato@cnpja.com, bem como do telefone: (11) 97156-4144 (WhatsApp Apenas). Estes serviços de atendimento ao usuário estarão disponíveis nos seguintes dias e horários:
 - segunda a sexta das 8h as 17h;
@@ -191,7 +199,7 @@ Em caso de dúvidas, sugestões ou problemas com a utilização do aplicativo CN
 
 ---
 
-## 17. Das Sançoes
+## 18. Das Sançoes
 ​
 Sem prejuízo das demais medidas legais cabíveis, o editor do aplicativo CNPJá! poderá, a qualquer momento, advertir, suspender ou cancelar a conta do usuário:
 a) que descumprir quaisquer dos dispositivos contidos no presente instrumento;
@@ -202,7 +210,7 @@ e) cujo comportamento constitua ou possa vir a importar ofensa ou dano a terceir
 
 ---
 
-## 18. Das Alterações
+## 19. Das Alterações
 
 O editor se reserva o direito de modificar, a qualquer momento e sem qualquer aviso prévio, o site e os serviços, bem como as presentes normas, especialmente para adaptá-las às evoluções do aplicativo CNPJá, seja pela disponibilização de novas funcionalidades, seja pela supressão ou modificação daquelas já existentes.
 
@@ -212,7 +220,7 @@ O usuário que utilizar o serviço, após realizadas modificações nos termos e
 
 ​---
 
-## 19. Do Direito Aplicável e do Foro
+## 20. Do Direito Aplicável e do Foro
 
 Para a solução das controvérsias decorrentes do presente instrumento, será aplicado integralmente o Direito brasileiro, notadamente a sua legislação consumerista.
 
