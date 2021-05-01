@@ -72,7 +72,7 @@ O CNPJ consultado não está registrado na Receita Federal
 
 Este erro será exibido em duas ocasiões:
 - Seus créditos acabaram
-- Você excedeu o limite de 100 requisições concorrentes
+- Você excedeu o limite de 25 requisições concorrentes
 
 ```json
 {
