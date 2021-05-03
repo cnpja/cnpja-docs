@@ -47,7 +47,7 @@ Caso contrário, irá recebê-los do Cache que não garante retorno todas as vez
 
 Sim, sempre que enviar uma requisição iremos contar quantas outras não finalizadas você possui.
 
-Cada Chave de API pode ter até 100 requisições concorrentes não finalizadas.
+Cada Chave de API pode ter até 25 requisições concorrentes não finalizadas.
 
 ---
 
