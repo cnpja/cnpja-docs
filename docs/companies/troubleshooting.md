@@ -56,7 +56,9 @@ Não foi possível autenticar sua requisição, certifique-se que:
 
 ## Not Found (404)
 
-O CNPJ consultado não está registrado na Receita Federal
+O CNPJ é valido, porém não está registrado na Receita Federal
+
+Consulta sujeita a penalização de créditos
 
 ```json
 {
